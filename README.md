@@ -5,7 +5,7 @@
 
 #### Αποθετήριο κώδικα παραδοτέων
 * Demo: [https://dimitristria.github.io/D3js-uk-political-donations/](https://dimitristria.github.io/D3js-uk-political-donations/ 'Link demo')
-* Αποθετήριο κώδικα: [https://github.com/DimitrisTria/D3js-uk-political-donations](https://github.com/DimitrisTria/D3js-uk-political-donations 'Αποθετήριο κώδικα')
+* Αποθετήριο κώδικα (gh-pages): [https://github.com/DimitrisTria/D3js-uk-political-donations](https://github.com/DimitrisTria/D3js-uk-political-donations 'Αποθετήριο κώδικα')
 * Αποθετήριο κώδικα πρώτου παραδοτέου: [https://github.com/DimitrisTria/D3js-uk-political-donations/tree/Παραδοτέο1](https://github.com/DimitrisTria/D3js-uk-political-donations/tree/Παραδοτέο1 'Αποθετήριο κώδικα δεύτερου παραδοτέου')
 * Αποθετήριο κώδικα δεύτερου παραδοτέου: [https://github.com/DimitrisTria/D3js-uk-political-donations/tree/Παραδοτέο2](https://github.com/DimitrisTria/D3js-uk-political-donations/tree/Παραδοτέο2 'Αποθετήριο κώδικα τρίτου παραδοτέου')
 
