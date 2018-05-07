@@ -18,9 +18,7 @@
   Το παιχνίδι που δημιούργησα, βάση του κώδικα που μας δώθηκε για την εργασία (https://github.com/ioniodi/D3js-uk-political-donations), τηρεί τις προϋποθέσεις για τα παραδοτέα του μαθήματος. Επιπλέον, επέκτεινα την παρούσα εργασία με τη προσθήκη ενός νέου γραφήματος στη d3 και συγκεκριμένα ενός ραβδογράμματος που μετρά συγχνότητες εμφάνησης για το πρώτο αρχείο δεδομένων (7500up.csv) σχετικά με τους δότες.
 
 ### Επιλογή εργαλείων
-Λογισμικό ολοκληρωμένου περιβάλλοντος προγραμματισμού: Visual Studio Code [https://code.visualstudio.com/](https://code.visualstudio.com/ 'Visual Studio Code')
-
-Λογισμικό επεξεργασίας εικόνων: Paint.Net [https://www.getpaint.net/](https://www.getpaint.net/ 'Paint.Net')
-
-Λογισμικό για τη επεξεργασία αρχείων τύπου csv και xls: Apache OpenOffice Calc [https://www.openoffice.org/product/calc.html](https://www.openoffice.org/product/calc.html 'Apache OpenOffice Calc')
+* Λογισμικό ολοκληρωμένου περιβάλλοντος προγραμματισμού: Visual Studio Code [https://code.visualstudio.com/](https://code.visualstudio.com/ 'Visual Studio Code')
+* Λογισμικό επεξεργασίας εικόνων: Paint.Net [https://www.getpaint.net/](https://www.getpaint.net/ 'Paint.Net')
+* Λογισμικό για τη επεξεργασία αρχείων τύπου csv και xls: Apache OpenOffice Calc [https://www.openoffice.org/product/calc.html](https://www.openoffice.org/product/calc.html 'Apache OpenOffice Calc')
 
