@@ -19,5 +19,8 @@
 
 ### Επιλογή εργαλείων
 Λογισμικό ολοκληρωμένου περιβάλλοντος προγραμματισμού: Visual Studio Code [https://code.visualstudio.com/](https://code.visualstudio.com/ 'Visual Studio Code')
+
 Λογισμικό επεξεργασίας εικόνων: Paint.Net [https://www.getpaint.net/](https://www.getpaint.net/ 'Paint.Net')
+
 Λογισμικό για τη επεξεργασία αρχείων τύπου csv και xls: Apache OpenOffice Calc [https://www.openoffice.org/product/calc.html](https://www.openoffice.org/product/calc.html 'Apache OpenOffice Calc')
+
