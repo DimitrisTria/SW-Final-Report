@@ -8,8 +8,8 @@
 
 #### Αποθετήριο κώδικα προηγούμενων παραδοτέων
 
-* Αποθετήριο κώδικα δεύτερου παραδοτέου: [https://github.com/DimitrisTria/Super-Mario/tree/%CE%A0%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF2](https://github.com/DimitrisTria/Super-Mario/tree/%CE%A0%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF2 'Αποθετήριο κώδικα δεύτερου παραδοτέου')
-* Αποθετήριο κώδικα τρίτου παραδοτέου: [https://github.com/DimitrisTria/Super-Mario/tree/%CE%A0%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF3](https://github.com/DimitrisTria/Super-Mario/tree/%CE%A0%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF3 'Αποθετήριο κώδικα τρίτου παραδοτέου')
+* Αποθετήριο κώδικα πρώτου παραδοτέου: [ηttps://github.com/DimitrisTria/D3js-uk-political-donations/tree/Παραδοτέο1](https://github.com/DimitrisTria/D3js-uk-political-donations/tree/Παραδοτέο1 'Αποθετήριο κώδικα δεύτερου παραδοτέου')
+* Αποθετήριο κώδικα δεύτερου παραδοτέου: [https://github.com/DimitrisTria/D3js-uk-political-donations/tree/Παραδοτέο2](https://github.com/DimitrisTria/D3js-uk-political-donations/tree/Παραδοτέο2 'Αποθετήριο κώδικα τρίτου παραδοτέου')
 
 ### Εισαγωγή
   Η παρακάτω εργασία, D3js-uk-political-donations, δημιουργήθηκε για τα πλαίσια της εργασίας εξαμήνου του μαθήματος Τεχνολογία Λογισμικού, του Ιόνιου Πανεπιστημίου, στο έκτου εξαμήνου.
