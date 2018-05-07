@@ -20,3 +20,5 @@
 * Λογισμικό επεξεργασίας εικόνων: Paint.Net [https://www.getpaint.net/](https://www.getpaint.net/ 'Paint.Net')
 * Λογισμικό για τη επεξεργασία αρχείων τύπου csv και xls: Apache OpenOffice Calc [https://www.openoffice.org/product/calc.html](https://www.openoffice.org/product/calc.html 'Apache OpenOffice Calc')
 
+### Διαδικασία ανάπτυξης
+Αρχικά, μετά από την επιλογή του θέματος χρησιμοποίησα ένα περιβάλλον προγραμματισμού της επιλογής μου και συγκεκριμένα το Visual Studio Code. Ο λόγος για αυτό είναι το ότι, έχω τη δυνατότητα να τρέξω τον κώδικα εκτός διαδυκτίου και με σαφως μεγαλύτερη απόδοση και ταχύτητα τοπικά στο σύστημα που χρησιμοποιώ.
