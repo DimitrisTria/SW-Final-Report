@@ -24,7 +24,7 @@
 
 Αποθετήριο κώδικα παραδοτέου 1: [https://github.com/DimitrisTria/D3js-uk-political-donations/tree/Παραδοτέο1](https://github.com/DimitrisTria/D3js-uk-political-donations/tree/Παραδοτέο1 'Παραδοτέο1')
 
-#### Ζητούμενα στα οποία απαιτήθηκαν αλλαγές στο [προσωπικό αποθετήριο](https://github.com/DimitrisTria/D3js-uk-political-donations 'προσωπικό αποθετήριο') μου.
+#### Ζητούμενα στα οποία απαιτήθηκαν αλλαγές στο [προσωπικό αποθετήριο του κώδικα](https://github.com/DimitrisTria/D3js-uk-political-donations 'προσωπικό αποθετήριο').
 
 Παραδοτέο 1
 * Ο σύνδεσμος της σελίδας μου με την εφαρμογή.
