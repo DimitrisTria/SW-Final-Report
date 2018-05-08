@@ -3,8 +3,8 @@
 ### Ονοματεπώνυμο: Δημήτριος Τριανταφύλλου
 ### Αριθμός Μητρώου: Π2015077
 
-
-* [gh-pages (τρέχον κώδικας)](https://github.com/DimitrisTria/D3js-uk-political-donations 'Αποθετήριο κώδικα gh-pages (τρέχον κώδικας)')
+* Εκτελέσιμο παράδειγμα: [https://dimitristria.github.io/D3js-uk-political-donations/](https://dimitristria.github.io/D3js-uk-political-donations/ 'Εκτελέσιμο παράδειγμα')
+* Αποθετήριο κώδικα: [https://github.com/DimitrisTria/D3js-uk-political-donations](https://github.com/DimitrisTria/D3js-uk-political-donations 'Αποθετήριο κώδικα')
 
 ### Εισαγωγή
   Η παρακάτω εργασία, D3js-uk-political-donations, δημιουργήθηκε για τα πλαίσια της εργασίας εξαμήνου του μαθήματος Τεχνολογία Λογισμικού, του Ιόνιου Πανεπιστημίου, του έκτου εξαμήνου.
