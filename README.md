@@ -108,7 +108,7 @@
 1. Εμφάνιση της εικόνας μου και του ονόματος του προφίλ μου στο github με κινούμενο τρόπο στο αρχείο [index.html](https://github.com/ioniodi/D3js-uk-political-donations/blob/master/participants/index.html 'index.html')
 ![position_03](/photos/position_03.gif)
 
-2. Δυναμική άντληση δεδομένων για τις συνησφορές στο [κοινό αποθετηρίου εργασίας](https://github.com/ioniodi/D3js-uk-political-donations 'κοινό αποθετηρίου εργασίας')
+2. Δυναμική άντληση δεδομένων για τις συνησφορές στο [κοινό αποθετήριο εργασίας](https://github.com/ioniodi/D3js-uk-political-donations 'κοινό αποθετηρίου εργασίας')
 ![2015077_html](/photos/2015077_html.gif)
 
 3. Ανανέωση του αρχείου 2015077.csv
