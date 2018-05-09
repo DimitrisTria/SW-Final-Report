@@ -101,6 +101,11 @@
 11. Λειτουργία του ραβδογράμματος για κάθε προηγούμενη ομαδοποίηση
 ![barchart_groups](/photos/barchart_groups.gif)
 
+12. Αρχικό γράφημα με νέα ανοικτά δεδομένα από επίσημη στατιστική αρχή
+![bublechart2](/photos/bublechart2.png)
+
+12. Λειτουργία της οπτικοποίησης για κάθε προηγούμενη ομαδοποίηση
+![bublechart2_groups](/photos/bublechart2_groups.gif)
 
 ## Συμπεράσματα
 
