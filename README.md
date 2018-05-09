@@ -93,7 +93,7 @@
 ![piechart_search](/photos/piechart_search.png)
 
 9. Λειτουργία της πίτας για κάθε προηγούμενη ομαδοποίηση
-![piechart_search](/photos/piechart_search.png)
+![piechart_groups](/photos/piechart_groups.gif)
 
 10. Επιπλέον γράφημα d3 τύπου ραβδογράμματος
 ![barchart](/photos/barchart.png)
