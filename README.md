@@ -122,5 +122,6 @@
 7. [d3](https://d3js.org/ 'd3')
 8. [anime.min.js](https://github.com/juliangarnier/anime 'anime.min.js')
 9. [git hub api](https://api.github.com/repos/ioniodi/D3js-uk-political-donations/contributors 'ioniodi D3js-uk-political-donations contributors')
-10. [Νέο γράφημα οπτικοποίησης δεδομένων (piechart)](http://bl.ocks.org/vgrocha/1580af34e56ee6224d33 '1580af34e56ee6224d33')
-11. [W3Schools](https://www.w3schools.com/ 'W3Schools')
+10. [Νέο γράφημα οπτικοποίησης δεδομένων: διαδρασική πίτα](http://bl.ocks.org/vgrocha/1580af34e56ee6224d33 '1580af34e56ee6224d33')
+11. [Νέο γράφημα: Ραβδόγραμμα](https://www.youtube.com/watch?v=Fjmxh-gnBM0 'Νέο γράφημα: Ραβδόγραμμα')
+12. [W3Schools](https://www.w3schools.com/ 'W3Schools')
