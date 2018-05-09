@@ -59,7 +59,7 @@
 
 * Στη συνέχεια πρόσεσα 5 φωτογραφίες με δωριτές, τις οποίες είχα δεσμεύση στα σχόλια των [issue](https://github.com/ioniodi/D3js-uk-political-donations/issues/16  'issues') της εργασίας  του πρώτου παραδοτέου. Τις μετέτρεψα σε μέγεθος 42x42 και τις αποθήκευσα σε αρχείο τύπου .ico με την κατάλληλ επωνυμία.
   
-Σύνδεσμος του [pull request (28)](https://github.com/ioniodi/D3js-uk-political-donations/pull/28 'pull request 28') μου που αφορά τα προηγούμενα ζητούμενα.
+Σύνδεσμος του [pull request 28](https://github.com/ioniodi/D3js-uk-political-donations/pull/28 'pull request 28') μου που αφορά τα προηγούμενα ζητούμενα.
 
 #### Τελικό έργο και τελική αναφορά (Παρδοτέο 2 και τελική ανααφορά)
 
@@ -67,10 +67,7 @@
 
 * Στο δεύτερο ερώτημα δημιούργησα μια σελιδά που με τη χρήση του [git hub api](https://api.github.com/repos/ioniodi/D3js-uk-political-donations/contributors 'ioniodi D3js-uk-political-donations contributors') παράγονται αυτόματα και δυναμικά τα άτομα που έχουν συνισφέρει στο κοινό αποθετήριο. Τα δεδομένα που παρουσιάζονται για κάθε άτομο είναι η εικόνα προφίλ και οι συνησφορές του. Επιπλέον, ο χρήστης έχει τη δυνατότητα να κάνει click επάνω στο πλαίσιο του κάθε ατόμου και ανοίξει μια νέα καρτέλα στο περιηγητή με το προφίλ του ατόμου στο git hub.
 
-pull requests
-
-Σύνδεσμος του [pull request 257](https://github.com/ioniodi/D3js-uk-political-donations/pull/257 'pull request 257') που αφορά τα παραπάνω ζητούμενα: 
-
+Σύνδεσμος του [pull request 257](https://github.com/ioniodi/D3js-uk-political-donations/pull/257 'pull request 257') που αφορά τα παραπάνω ζητούμενα.
 Σύνδεσμος του [pull request 261](https://github.com/ioniodi/D3js-uk-political-donations/pull/261 'pull request 261') που αφορά την ανανέωση του 2015077.csv.
 
 ## Ενδεικτικές οθόνες και animated gif
