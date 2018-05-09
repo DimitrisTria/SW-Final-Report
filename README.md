@@ -110,3 +110,12 @@
 1. Ήχοι που χρησιμοποιήθηκαν αντλήθηκαν από το [freesound](https://freesound.org/ 'freesound').
 * Ήχος διαφορετικής οπτικοποίησης: [Hover 2](https://freesound.org/people/plasterbrain/sounds/237421/ 'Hover 2')
 * Ήχος διαφορετικής ομαδοποίησης: [guiclick2.ogg](https://freesound.org/people/farpro/sounds/264763/ 'guiclick2.ogg')
+2. [Apache OpenOffice Calc](https://www.openoffice.org/product/calc.html 'Apache OpenOffice Calc')
+3. [Paint.Net](https://www.getpaint.net/ 'Paint.Net')
+4. [Visual Studio Code](https://code.visualstudio.com/ 'Visual Studio Code')
+5. [Νέα στατιστικά δεδομένα](http://www.statistics.gr/el/statistics/-/publication/SIN03/2012 'νέα στατιστικά δεδομένα')
+6. [responsivevoice](https://responsivevoice.org/ 'responsivevoice')
+7. [d3](https://d3js.org/ 'd3')
+8. [anime.min.js](https://github.com/juliangarnier/anime 'anime.min.js')
+9. [git hub api](https://api.github.com/repos/ioniodi/D3js-uk-political-donations/contributors 'ioniodi D3js-uk-political-donations contributors')
+10. [Νέο γράφημα δεδομένων](http://bl.ocks.org/vgrocha/1580af34e56ee6224d33 '1580af34e56ee6224d33')
