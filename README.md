@@ -74,14 +74,9 @@
 
 Σύνδεσμος του [pull request 257](https://github.com/ioniodi/D3js-uk-political-donations/pull/257 'pull request 257') που αφορά τα παραπάνω ζητούμενα, καθώς και αυτού του [pull request 261](https://github.com/ioniodi/D3js-uk-political-donations/pull/261 'pull request 261') που αφορά την ανανέωση του 2015077.csv.
 
-![position_03](/photos/position_03.gif)
-
-![2015077_html](/photos/2015077_html.gif)
-
-![2015077_csv](/photos/2015077_csv.png)
-
-
 ## Ενδεικτικές οθόνες και animated gif
+
+### Εικόνες που αφορούν το προσωπικό αποθετήριο
 
 1. Πρώτη εικόνα της εφαρμογής με το πρώτο γράφημα οπτικοποίησης δεδομένων τύπου (bublechart).
 ![bublechart1](/photos/bublechart1.png)
@@ -107,6 +102,16 @@
 8. Χρήση αρχικού γραφήματος (bublechart) αλλά με νέα ανοικτά δεδομένα από επίσημη στατιστική αρχή, καθώς και τρεις ομαδοποιήσεις σε αυτά
 ![bublechart2](/photos/bublechart2.gif)
 
+### Εικόνες που αφορούν το κοινό αποθετήριον
+
+1. Εμφάνιση της εικόνας μου και του ονόματος του προφίλ μου στο github με κινούμενο τρόπο στο αρχείο [index.html](https://github.com/ioniodi/D3js-uk-political-donations/blob/master/participants/index.html 'index.html')
+![position_03](/photos/position_03.gif)
+
+2. Δυναμική άντληση δεδομένων για τις συνησφορές στο [κοινό αποθετηρίου εργασίας](https://github.com/ioniodi/D3js-uk-political-donations 'κοινό αποθετηρίου εργασίας')
+![2015077_html](/photos/2015077_html.gif)
+
+3. Ανανέωση του αρχείου 2015077.csv
+![2015077_csv](/photos/2015077_csv.png)
 
 ## Συμπεράσματα
 
