@@ -10,9 +10,7 @@
 ## Σύνοψη
   Το συγκεκριμένο έγγραφο αποτελεί την τελική αναφορά της εξαμηνιαίας εργασίας του Δημήτριου Τριανταφύλλου (Π2015077) στα πλαίσια του μαθήματος Τεχνολογία Λογισμικού του διδάσκοντα κ.Χωριανόπουλου για το εαρινό εξάμηνο.
   
-  Σκοπός της εργασίας είναι η επέκταση της εργασίας [D3js-uk-political-donations](https://ioniodi.github.io/D3js-uk-political-donations/full-viz.html 'D3js-uk-political-donations') με βάση τον κώδικα που μας δώθηκε ( [Αρχικός κώδικας](https://github.com/ioniodi/D3js-uk-political-donations 'Αρχικός κώδικας') ).
-  
-  Η παρούσα εργασία τηρεί τις προϋποθέσεις για τα παραδοτέα του μαθήματος. Επιπλέον, την επέκτεινα με τη προσθήκη ενός νέου γραφήματος στη d3 και συγκεκριμένα ενός ραβδογράμματος που μετρά συγχνότητες εμφάνησης, για το πρώτο αρχείο δεδομένων (7500up.csv), σχετικά με τους δότες σε κάθε κατηγορία.
+  Σκοπός της εργασίας είναι η επέκταση της εργασίας [D3js-uk-political-donations](https://ioniodi.github.io/D3js-uk-political-donations/full-viz.html 'D3js-uk-political-donations') με βάση τον κώδικα που μας δώθηκε ( [Αρχικός κώδικας](https://github.com/ioniodi/D3js-uk-political-donations 'Αρχικός κώδικας') ). Η παρούσα εργασία τηρεί τις προϋποθέσεις για τα παραδοτέα του μαθήματος. Επιπλέον, την επέκτεινα με τη προσθήκη ενός νέου γραφήματος στη d3 και συγκεκριμένα ενός ραβδογράμματος που μετρά συγχνότητες εμφάνησης, για το πρώτο αρχείο δεδομένων (7500up.csv), σχετικά με τους δότες σε κάθε κατηγορία.
 
 
 ## Ανάλυση σχετικών έργων και εργαλείων
@@ -67,8 +65,13 @@
 * Για το πρώτο ερώτημα αρχικά, δέσμευσα στα σχόλια των [issue](https://github.com/ioniodi/D3js-uk-political-donations/issues/17  'isues') της εργασίας του δευτέρου παραδοτέου. Επίσης, χρησιμοποίησα την βιβλιοθήκη [anime.min.js](https://github.com/juliangarnier/anime 'anime.min.js') όπως και στο παράδειγμα που μας δώθηκε της θέση 0, στο αρχείο index.html, που βρίσκεται στο φάκελο participants. Σύμφωνα με την περιοχή που είχα δηλώσει πρόσθεσα το δικό μου κομμάτι κώδικα για να αναπαραστήσω στην περιοχή μου την εικόνα μου και το όνομα χρήστη στο git hub με κινούμενο τρόπο. Το παράδειγμα που βρήκα για τα κινούμενα γράμματα που χρησιμοποίησα βρίσκεται [εδώ](http://tobiasahlin.com/moving-letters/#14 'moving letters 14')
 * Στο δεύτερο ερώτημα δημιούργησα μια σελιδά που με τη χρήση του [git hub api](https://api.github.com/repos/ioniodi/D3js-uk-political-donations/contributors 'ioniodi D3js-uk-political-donations contributors') παράγονται αυτόματα και δυναμικά τα άτομα που έχουν συνισφέρει στο κοινό αποθετήριο. Τα δεδομένα που παρουσιάζονται για κάθε άτομο είναι η εικόνα προφίλ και οι συνησφορές του. Επιπλέον, ο χρήστης έχει τη δυνατότητα να κάνει click επάνω στο πλαίσιο του κάθε ατόμου και ανοίξει μια νέα καρτέλα στο περιηγητή με το προφίλ του ατόμου στο git hub.
 
-Σύνδεσμος του [pull request 257](https://github.com/ioniodi/D3js-uk-political-donations/pull/257 'pull request 257') που αφορά τα παραπάνω ζητούμενα, καθώς και αυτός του [pull request 261](https://github.com/ioniodi/D3js-uk-political-donations/pull/261 'pull request 261') που αφορά την ανανέωση του 2015077.csv.
+Σύνδεσμος του [pull request 257](https://github.com/ioniodi/D3js-uk-political-donations/pull/257 'pull request 257') που αφορά τα παραπάνω ζητούμενα, καθώς και αυτού του [pull request 261](https://github.com/ioniodi/D3js-uk-political-donations/pull/261 'pull request 261') που αφορά την ανανέωση του 2015077.csv.
 
+![position_03](/photos/position_03.gif)
+
+![2015077_html](/photos/2015077_html.gif)
+
+![2015077_csv](/photos/2015077_csv.png)
 
 ## Ενδεικτικές οθόνες και animated gif
 
