@@ -92,6 +92,12 @@
 8. Δυνατότητα αναζήτησης του δωρητή όταν γίνει κλικ σε έναν μέρος της πίτας.
 ![piechart_search](/photos/piechart_search.png)
 
+9. Λειτουργία της πίτας για κάθε προηγούμενη ομαδοποίηση
+![piechart_search](/photos/piechart_search.png)
+
+10. Επιπλέον γράφημα d3 τύπου ραβδογράμματος
+![barchart](/photos/barchart.png)
+
 ## Συμπεράσματα
 
 ## Δικτυογραφία
