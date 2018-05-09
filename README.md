@@ -84,7 +84,7 @@
 ![history](/photos/history.png)
 
 6. Νέα οπτικοποίηση, διαδραστική πίτα, των δεδομένων του αρχείου (7500up.csv) για κάθε υπάρχουσα ομαδοποίηση
-![piechart_groups](/photos/piechart_groups.gif)
+![piechart](/photos/piechart.gif)
 
 7. Επιπλέον γράφημα d3 τύπου ραβδογράμματος που λειτουργεί για κάθε προηγούμενη ομαδοποίηση με στατιστικά δεδομένα
 ![barchart_groups](/photos/barchart_groups.gif)
