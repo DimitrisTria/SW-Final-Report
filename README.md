@@ -71,5 +71,7 @@
 ## Συμπεράσματα
 
 ## Δικτυογραφία
+
+1. Ήχοι που χρησιμοποιήθηκαν αντλήθηκαν από το [freesound](https://freesound.org/ 'freesound').
 * Ήχος διαφορετικής οπτικοποίησης: [Hover 2](https://freesound.org/people/plasterbrain/sounds/237421/ 'Hover 2')
 * Ήχος διαφορετικής ομαδοποίησης: [guiclick2.ogg](https://freesound.org/people/farpro/sounds/264763/ 'guiclick2.ogg')
