@@ -1,15 +1,19 @@
 # Τίτλος εργασίας: Οπτικοποίηση δεδομένων χορηγιών (UK)
 
+
 ### Ονοματεπώνυμο: Δημήτριος Τριανταφύλλου
 ### Αριθμός Μητρώου: Π2015077
+
 
 * Εκτελέσιμο παράδειγμα: [https://dimitristria.github.io/D3js-uk-political-donations/](https://dimitristria.github.io/D3js-uk-political-donations/ 'Εκτελέσιμο παράδειγμα')
 * Αποθετήριο κώδικα: [https://github.com/DimitrisTria/D3js-uk-political-donations](https://github.com/DimitrisTria/D3js-uk-political-donations 'Αποθετήριο κώδικα')
 
 
-## Σύνοψη
+## Εισαγωγή
   Το συγκεκριμένο έγγραφο αποτελεί την τελική αναφορά της εξαμηνιαίας εργασίας του Δημήτριου Τριανταφύλλου (Π2015077) στα πλαίσια του μαθήματος Τεχνολογία Λογισμικού του διδάσκοντα κ.Χωριανόπουλου για το εαρινό εξάμηνο.
-  
+
+
+## Σύνοψη  
   Σκοπός της εργασίας είναι η επέκταση της εργασίας [D3js-uk-political-donations](https://ioniodi.github.io/D3js-uk-political-donations/full-viz.html 'D3js-uk-political-donations') με βάση τον κώδικα που μας δώθηκε ( [Αρχικός κώδικας](https://github.com/ioniodi/D3js-uk-political-donations 'Αρχικός κώδικας') ). Η παρούσα εργασία τηρεί τις προϋποθέσεις για τα παραδοτέα του μαθήματος. Επιπλέον, την επέκτεινα με τη προσθήκη ενός νέου γραφήματος στη d3 και συγκεκριμένα ενός ραβδογράμματος που μετρά συγχνότητες εμφάνησης, για το πρώτο αρχείο δεδομένων (7500up.csv), σχετικά με τους δότες σε κάθε κατηγορία.
 
 
@@ -119,3 +123,4 @@
 8. [anime.min.js](https://github.com/juliangarnier/anime 'anime.min.js')
 9. [git hub api](https://api.github.com/repos/ioniodi/D3js-uk-political-donations/contributors 'ioniodi D3js-uk-political-donations contributors')
 10. [Νέο γράφημα δεδομένων](http://bl.ocks.org/vgrocha/1580af34e56ee6224d33 '1580af34e56ee6224d33')
+11. [W3Schools](https://www.w3schools.com/ 'W3Schools')
