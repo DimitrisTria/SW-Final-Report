@@ -68,6 +68,30 @@
 
 ## Ενδεικτικές οθόνες και animated gif
 
+1. Πρώτη εικόνα της εφαρμογής, καθώς και της πρώτης οπτικοποίησης.
+![bublechart](/photos/bublechart1.png)
+
+2. Δυνατότητα μεγένθυσης του κειμένου.
+![bublechart1_zoom](/photos/bublechart1_zoom.png)
+
+3. Δυνατότητα αναζήτησης του δωρητή όταν γίνει κλικ σε έναν κύκλο.
+![bublechart1_search](/photos/bublechart1_search.png)
+
+4. Νέα ομάδα για οπτικοποίηση.
+![new_group](/photos/new_group.png)
+
+5. Ιστορικό που ανανεώνται δυναμικά
+![history](/photos/history.png)
+
+6. Ιστορικό με δυνατότητα αναζήτησης της εικόνας όταν γίνει κλικ
+![history_search](/photos/history_search.png)
+
+7. Νέα οπτικοποίηση των δεδομένων του αρχείου (7500up.csv)
+![piechart](/photos/piechart.png)
+
+8. Δυνατότητα αναζήτησης του δωρητή όταν γίνει κλικ σε έναν μέρος της πίτας.
+![piechart_search](/photos/piechart_search.png)
+
 ## Συμπεράσματα
 
 ## Δικτυογραφία
