@@ -5,8 +5,8 @@
 ### Αριθμός Μητρώου: Π2015077
 
 
-* Εκτελέσιμο παράδειγμα: [https://dimitristria.github.io/D3js-uk-political-donations/](https://dimitristria.github.io/D3js-uk-political-donations/ 'Εκτελέσιμο παράδειγμα')
-* Αποθετήριο κώδικα: [https://github.com/DimitrisTria/D3js-uk-political-donations](https://github.com/DimitrisTria/D3js-uk-political-donations 'Αποθετήριο κώδικα')
+* Εκτελέσιμο παράδειγμα: [https://jimtria.github.io/D3js-uk-political-donations/](https://jimtria.github.io/D3js-uk-political-donations/ 'Εκτελέσιμο παράδειγμα')
+* Αποθετήριο κώδικα: [https://github.com/JimTria/D3js-uk-political-donations](https://github.com/JimTria/D3js-uk-political-donations 'Αποθετήριο κώδικα')
 
 
 ## Εισαγωγή
